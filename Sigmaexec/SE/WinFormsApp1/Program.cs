@@ -1,6 +1,9 @@
+// sigmaexec is not the most polished executor it is simply a template, you can use it for free with no credit but i'd appreciate if you gave credit :)
+
 using System;
 using System.Drawing;
 using System.Windows.Forms;
+// The Quorum api is used to make the code simple to uderstand and the code easier to read but at its core its just Nezur.
 using QuorumAPI;
 
 public class SigmaExec : Form
