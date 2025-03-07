@@ -18,7 +18,8 @@ public class SigmaExec : Form
         this.Size = new Size(500, 400);
         this.FormBorderStyle = FormBorderStyle.FixedDialog;
         this.MaximizeBox = false;
-
+        // boeken.uk
+        // i hate my code
         attachButton = new Button { Text = "Attach", Left = 20, Top = 20, Width = 120, Height = 40 };
         attachButton.Click += (sender, e) => QuorumAPI.QuorumAPI.AttachAPI();
 
