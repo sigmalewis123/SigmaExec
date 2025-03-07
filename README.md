@@ -2,7 +2,7 @@
 Built on nezur. Proof of concept, level 5 exec.
 
 ## DISCLAIMER
-The Quorum api is used to make the code simple to uderstand and easier to read but at its core its just Nezur. The injection method is not mine this is mainly meant to be a template but i may add features such as better UI and More features.
+The Quorum api is used to make the code simple to uderstand and easier to read but at its core its just Nezur. The injection method is not mine this is mainly meant to be a template but i may add features such as better UI and other things such as AI coding assistant, script saving, script tabs and multi roblox attaching / execution.
 
 ## Overview
 SigmaExec is a proof of concept project built on the nezur framework. It demonstrates a level 5 execution model.
